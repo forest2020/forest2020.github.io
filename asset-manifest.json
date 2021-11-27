@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cde580fa.chunk.css",
-    "main.js": "/static/js/main.91d22399.chunk.js",
-    "main.js.map": "/static/js/main.91d22399.chunk.js.map",
+    "main.js": "/static/js/main.7eee4eb5.chunk.js",
+    "main.js.map": "/static/js/main.7eee4eb5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3866e853.js",
     "runtime-main.js.map": "/static/js/runtime-main.3866e853.js.map",
     "static/css/2.a95be28f.chunk.css": "/static/css/2.a95be28f.chunk.css",
@@ -42,6 +42,9 @@
     "static/media/huatai.732219b7.png": "/static/media/huatai.732219b7.png",
     "static/media/jinrongqihuo.f003a7d4.png": "/static/media/jinrongqihuo.f003a7d4.png",
     "static/media/jinrongrenzheng.7fa7925a.png": "/static/media/jinrongrenzheng.7fa7925a.png",
+    "static/media/livecase1.5c66f821.png": "/static/media/livecase1.5c66f821.png",
+    "static/media/livecase2.edf09e91.png": "/static/media/livecase2.edf09e91.png",
+    "static/media/map.05312078.png": "/static/media/map.05312078.png",
     "static/media/mayi.08471df0.png": "/static/media/mayi.08471df0.png",
     "static/media/nanfang.ddb9e020.png": "/static/media/nanfang.ddb9e020.png",
     "static/media/networkflow.0b5b1a6b.png": "/static/media/networkflow.0b5b1a6b.png",
@@ -52,8 +55,8 @@
     "static/media/shenzhen.cb94af47.png": "/static/media/shenzhen.cb94af47.png",
     "static/media/slogan.b5ec0770.png": "/static/media/slogan.b5ec0770.png",
     "static/media/staffstyle.8ac9ba52.png": "/static/media/staffstyle.8ac9ba52.png",
-    "static/media/videocase1.4836c1a8.png": "/static/media/videocase1.4836c1a8.png",
-    "static/media/videocase2.a6466ea1.png": "/static/media/videocase2.a6466ea1.png",
+    "static/media/videocase1.a11483d9.png": "/static/media/videocase1.a11483d9.png",
+    "static/media/videocase2.ae37ead0.png": "/static/media/videocase2.ae37ead0.png",
     "static/media/videocase3.90f99066.png": "/static/media/videocase3.90f99066.png",
     "static/media/visionvalueblacklarge.ac404e4f.png": "/static/media/visionvalueblacklarge.ac404e4f.png",
     "static/media/weixinqrcode.3e09d641.png": "/static/media/weixinqrcode.3e09d641.png",
@@ -69,6 +72,6 @@
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.5475750b.chunk.js",
     "static/css/main.cde580fa.chunk.css",
-    "static/js/main.91d22399.chunk.js"
+    "static/js/main.7eee4eb5.chunk.js"
   ]
 }
